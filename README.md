@@ -7,6 +7,11 @@ This repository provides a Python script demonstrating text summarization using 
 1. Pipeline for Transformers
    
 2. bs4 for Beautiful Soup
+
+3. Requests
+
+4. Pandas
+   
    
 **Overview**
 
